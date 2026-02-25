@@ -1,0 +1,7 @@
+Hi everyone!
+Hello World!!!
+The weather is cool.
+   id       name  score
+0   1  Олександр     95
+1   2      Марія     88
+2   3     Дмитро     92
